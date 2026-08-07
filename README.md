@@ -20,9 +20,9 @@
 
 ## 🧑‍💻 About Me
 
-I'm an **Electrical & Electronics Engineering undergraduate** interested in developing practical solutions using **embedded systems, power electronics, control systems, IoT, and hardware design**.
+I'm an **Electrical & Electronics Engineering undergraduate** interested in developing practical engineering solutions using **embedded systems, power electronics, control systems, IoT, and hardware design**.
 
-I enjoy working across both **hardware and firmware**, taking engineering concepts from an initial idea to a functional prototype.
+I enjoy working across both **hardware and firmware**, taking engineering concepts from an initial idea to a functional prototype through **design, programming, testing, and debugging**.
 
 ### ⚡ My Engineering Approach
 
@@ -40,6 +40,8 @@ Firmware / Control
 Testing & Debugging
    ↓
 Working Prototype
+   ↓
+Optimization & Improvement
 
 My current interests include embedded control, power-conversion systems, EV electronics, battery systems, industrial automation, and hardware R&D.
 
@@ -68,37 +70,37 @@ Domain	Focus
 💻 Programming
 
 <p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Embedded_C-222222?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Embedded_C-222222?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>🔌 Embedded Platforms
 
 <p>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>📡 Communication
 
 <p>
-<img src="https://img.shields.io/badge/UART-333333?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SPI-333333?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/I²C-333333?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CAN-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UART-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SPI-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/I²C-00897B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CAN-E65100?style=for-the-badge"/>
 </p>⚡ Power & Control
 
 <p>
-<img src="https://img.shields.io/badge/Power_Electronics-8B0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Control_Systems-5C2D91?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DC--DC_Converters-CC5500?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PI_Control-444444?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power_Electronics-8B0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Control_Systems-5C2D91?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DC--DC_Converters-CC5500?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PI_Control-3949AB?style=for-the-badge"/>
 </p>🧰 Engineering Tools
 
 <p>
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Simulink-FF8C00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white"/>
-<img src="https://img.shields.io/badge/Altium-1F1F1F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Simulink-FF8C00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Altium-1F1F1F?style=for-the-badge"/>
 </p>
 ---
 
@@ -108,9 +110,10 @@ Domain	Focus
 
 Summer Internship — NIT Tiruchirappalli
 
-Worked on closed-loop voltage regulation of a DC-DC boost converter using a PI controller.
+Worked on closed-loop voltage regulation of a DC-DC boost converter using PI control, combining power electronics, control theory, simulation, and embedded implementation.
 
 Focus:
+
 Power Electronics PI Control C2000 MATLAB Simulink
 
 
@@ -121,6 +124,7 @@ Power Electronics PI Control C2000 MATLAB Simulink
 A hardware-oriented innovation project focused on dynamic electrical reconfiguration and practical hardware implementation.
 
 Focus:
+
 Hardware Design Electrical Systems Automation Innovation
 
 🏆 1st Prize — Hardware Hackathon
@@ -130,9 +134,10 @@ Hardware Design Electrical Systems Automation Innovation
 
 🌱 ESP32 Automatic Plant Watering System
 
-An embedded automation system using soil-moisture sensing and ESP32-based control to automatically operate a water pump.
+An embedded automation system using soil-moisture sensing and ESP32-based control to automatically operate a water pump according to soil conditions.
 
 Focus:
+
 ESP32 Embedded C ADC Sensors Relay Control
 
 
@@ -143,6 +148,7 @@ ESP32 Embedded C ADC Sensors Relay Control
 Exploring embedded hardware solutions for vehicle monitoring, sensing, and intelligent safety systems.
 
 Focus:
+
 Embedded Systems Sensors Vehicle Electronics
 
 
@@ -164,13 +170,13 @@ DC-DC Boost Converter
 
 Closed-loop voltage regulation
 
-PI controller
+PI Controller
 
 MATLAB / Simulink
 
-Embedded control
+Embedded Control
 
-Power electronics analysis
+Power Electronics Analysis
 
 
 
@@ -178,9 +184,13 @@ Power electronics analysis
 
 🏆 Achievements
 
-🥇 1st Prize — Hardware Hackathon
+<p align="center">
+  <img src="https://img.shields.io/badge/🥇%201st%20Prize-Hardware%20Hackathon-gold?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🥈%202nd%20Prize-Idea%20Presentation-silver?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎓%20Summer%20Internship-NIT%20Tiruchirappalli-blue?style=for-the-badge"/>
+</p>🥇 1st Prize — Hardware Hackathon
 
-Developed the Dynamic Reconfiguration Kit.
+Developed the Dynamic Reconfiguration Kit, a practical hardware-oriented engineering solution.
 
 🥈 2nd Prize — Idea Presentation
 
@@ -188,34 +198,38 @@ Presented an innovative hardware-oriented engineering concept.
 
 🎓 Summer Internship — NIT Tiruchirappalli
 
-Worked on a power-electronics and control-oriented engineering project.
+Worked on a power-electronics and control-oriented engineering project involving closed-loop voltage regulation of a DC-DC boost converter.
 
 
 ---
 
 🔬 Areas of Interest
 
-Embedded Systems
+🔌 Embedded Systems
+
 ├── Microcontrollers
 ├── Embedded C
 ├── Communication Protocols
 └── Real-Time Systems
 
-Power Electronics
+⚡ Power Electronics
+
 ├── DC-DC Converters
 ├── Power Conversion
 ├── Motor Drives
 └── EV Power Electronics
 
-Hardware R&D
+🔧 Hardware R&D
+
 ├── PCB Design
 ├── Sensors & Actuators
 ├── Prototyping
 └── Intelligent Hardware
 
-Future Focus
+🚗 Future Focus
+
 ├── RTOS
-├── CAN
+├── CAN Communication
 ├── Battery Management Systems
 ├── EV Systems
 └── Advanced Embedded Control
@@ -225,7 +239,14 @@ Future Focus
 
 📚 Currently Learning
 
-Advanced Embedded C
+<p align="center">
+  <img src="https://img.shields.io/badge/Advanced_Embedded_C-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RTOS-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CAN-8E24AA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PCB_Design-1565C0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BMS-2E7D32?style=for-the-badge"/>
+</p>Advanced Embedded C
 
 STM32 Development
 
@@ -269,15 +290,31 @@ Embedded Control Systems
 
 🎯 Engineering Goals
 
-☐ Strengthen Embedded C
+<p align="center">
+  <img src="https://img.shields.io/badge/Embedded_C-In_Progress-00599C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/STM32-In_Progress-03234B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RTOS-Learning-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CAN-Learning-8E24AA?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PCB_Design-Improving-1565C0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/BMS-Exploring-2E7D32?style=flat-square"/>
+</p>☐ Strengthen Embedded C
+
 ☐ Master STM32
+
 ☐ Learn RTOS
+
 ☐ Build CAN-based projects
+
 ☐ Improve PCB Design
+
 ☐ Develop a practical BMS
+
 ☐ Build advanced Power Electronics projects
+
 ☐ Contribute to Open Source
+
 ☐ Develop R&D-oriented Hardware Prototypes
+
 
 
 ---
@@ -285,11 +322,11 @@ Embedded Control Systems
 🤝 Connect With Me
 
 <p align="center"><a href="https://www.linkedin.com/in/lawrance016">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a><a href="mailto:joshualawrance16@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a><a href="https://github.com/Lawrance016">
-<img src="https://img.shields.io/badge/GitHub-Lawrance016-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Lawrance016-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a></p>
 ---
 
