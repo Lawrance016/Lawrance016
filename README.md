@@ -1,12 +1,4 @@
 <!-- ============================================ -->
-<!--  🚀 SYSTEM BOOT: ENGINEERING DASHBOARD v2.0   -->
-<!-- ============================================ -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2000&pause=500&color=00E5FF&center=true&vCenter=true&width=800&lines=⚡+JOSHUA+LAWRANCE+R+⚡;ELECTRICAL+%26+ELECTRONICS+ENGINEER;POWER+ELECTRONICS+%7C+GATE+2027+ASPIRANT;EMBEDDED+SYSTEMS+%7C+HARDWARE+R%26D;%3E+BUILDING+IDEAS+INTO+PROTOTYPES" alt="Typing SVG" />
-</p>
-
-<!-- ============================================ -->
 <!--  🖥️  SYSTEM STATUS BAR                        -->
 <!-- ============================================ -->
 <p align="center">
