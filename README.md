@@ -1,284 +1,206 @@
-<!-- Header with Typing Animation -->
-<h1 align="center">👋 Hi, I'm Joshua Lawrance R</h1>
-<h3 align="center">⚡ Electrical & Electronics Engineering Undergraduate</h3>
+<!-- ============================================ -->
+<!--  🚀 SYSTEM BOOT: ENGINEERING DASHBOARD v2.0   -->
+<!-- ============================================ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=EEE+Undergraduate;Embedded+Systems+Enthusiast;Power+Electronics+%7C+Control+Systems;Hardware+%26+Firmware+Development;Building+Ideas+into+Working+Prototypes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2000&pause=500&color=00E5FF&center=true&vCenter=true&width=800&lines=⚡+JOSHUA+LAWRANCE+R+⚡;ELECTRICAL+%26+ELECTRONICS+ENGINEER;POWER+ELECTRONICS+%7C+GATE+2027+ASPIRANT;EMBEDDED+SYSTEMS+%7C+HARDWARE+R%26D;%3E+BUILDING+IDEAS+INTO+PROTOTYPES" alt="Typing SVG" />
 </p>
 
-<!-- Profile Views & Followers -->
+<!-- ============================================ -->
+<!--  🖥️  SYSTEM STATUS BAR                        -->
+<!-- ============================================ -->
 <p align="center">
-  <a href="https://github.com/Lawrance016">
-    <img src="https://komarev.com/ghpvc/?username=Lawrance016&label=Profile%20Views&style=for-the-badge&color=0e75b6" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/Lawrance016?tab=followers">
-    <img src="https://img.shields.io/github/followers/Lawrance016?style=for-the-badge&label=Followers&color=0e75b6" alt="Followers" />
-  </a>
+  <a href="https://github.com/Lawrance016"><img src="https://komarev.com/ghpvc/?username=Lawrance016&label=PROFILE+VIEWS&style=for-the-badge&color=00E5FF" /></a>
+  <a href="https://github.com/Lawrance016?tab=followers"><img src="https://img.shields.io/github/followers/Lawrance016?style=for-the-badge&label=FOLLOWERS&color=00E5FF" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-00FF00?style=for-the-badge&logo=statuspage" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GATE_2027-ASPIRANT-FF6F00?style=for-the-badge&logo=googlescholar" /></a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+<!-- ============================================ -->
+<!--  🧠  ABOUT / TERMINAL INTERFACE              -->
+<!-- ============================================ -->
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"/> `>_ SYSTEM.INFO`
 
-I'm an **Electrical & Electronics Engineering undergraduate** passionate about developing practical engineering solutions using **embedded systems, power electronics, control systems, IoT, and hardware design**.
-
-I enjoy working across both **hardware and firmware**, taking concepts from idea to functional prototype through **design, programming, testing, and debugging**.
-
-### ⚡ My Engineering Approach
-
-```text
-Problem
-   ↓
-Research & Analysis
-   ↓
-System Design
-   ↓
-Hardware Development
-   ↓
-Firmware / Control
-   ↓
-Testing & Debugging
-   ↓
-Working Prototype
-   ↓
-Optimization & Improvement
+```yaml
+USER: Joshua Lawrance R
+ROLE: Electrical & Electronics Engineering Undergraduate
+MISSION: Power Electronics | Embedded Systems | Control Theory
+STATUS: 🔥 GATE 2027 Prep | 🚀 R&D Prototyping
+CORE_PASSION: 
+  - ⚡ Power Electronics (Conversion, DC-DC, Motor Drives)
+  - 🎛️ Closed-Loop Control Systems
+  - 🔌 Hardware & Firmware Co-Design
+CURRENT_OBJECTIVE: 
+  - Crack GATE 2027 with top rank (Focus: Power Electronics & Control)
+  - Build industry-grade embedded hardware prototypes
+MOTTO: "From Silicon to System, Ideas into Impact."
 ```
 
-My current interests include embedded control, power‑conversion systems, EV electronics, battery systems, industrial automation, and hardware R&D.
+---
+
+<!-- ============================================ -->
+<!--  🎯  GATE 2027 PREPARATION DASHBOARD         -->
+<!-- ============================================ -->
+## 🎯 `>_ GATE_2027_COMMAND_CENTER`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TARGET-GATE_2027-FF4500?style=for-the-badge&logo=googledrive" />
+  <img src="https://img.shields.io/badge/FOCUS-POWER_ELECTRONICS_%2B_CONTROL-00BFFF?style=for-the-badge&logo=electrical" />
+  <img src="https://img.shields.io/badge/STATUS-INTENSE_PREP-32CD32?style=for-the-badge" />
+</p>
+
+> ⚡ **I live and breathe Power Electronics.** My entire engineering journey revolves around mastering the physics, modeling, and control of power converters. GATE 2027 is my gateway to top-tier research institutions, and I am engineering my preparation with the precision of a closed-loop PID controller!
+
+| 📚 Subject | 🎯 Focus Level | 💡 My Edge |
+|:---|:---:|:---|
+| **⚡ Power Electronics** | `████████████████████ 95%` | Core passion; practical converter design & PI control |
+| **🎛️ Control Systems** | `████████████████░░░░ 80%` | Closed-loop stability, frequency response, Root Locus |
+| **🔌 Electrical Machines** | `████████████░░░░░░░░ 65%` | Understanding EV motors & drives |
+| **📊 Network Theory** | `█████████████░░░░░░░ 70%` | Circuit solving & transients |
+| **🔋 BMS & EV Tech** | `██████████████░░░░░░ 75%` | Future R&D focus aligned with GATE syllabus |
+
+> 🎯 **Goal:** Secure a top rank to pursue advanced research in **Power Electronics & EV Drivetrain Systems**.
 
 ---
 
-## 🧠 Engineering Focus
+<!-- ============================================ -->
+<!--  🚀  PROFESSIONAL EXPERIENCE (NEW ADDITION)   -->
+<!-- ============================================ -->
+## 💼 `>_ DEPLOYMENT_EXPERIENCE`
 
-| Domain | Focus |
-|--------|-------|
-| 🔌 Embedded Systems | ESP32 • STM32 • Arduino • Embedded C |
-| ⚡ Power Electronics | DC‑DC Converters • Power Conversion |
-| 🎛️ Control Systems | PI Control • Feedback Control |
-| 🚗 EV Electronics | Vehicle Electronics • Battery Systems |
-| 🔋 Battery Systems | Battery Monitoring • BMS Concepts |
-| 📡 Communication | UART • SPI • I²C • CAN |
-| 🔧 Hardware | Sensors • Actuators • PCB Design |
-| 🌐 IoT | Monitoring • Automation • Connected Systems |
+### 🚌 Industrial Visit Coordinator — *Hyderabad Tech Corridor*
+> Spearheaded the coordination of a large-scale industrial visit to **Hyderabad**, handling end-to-end logistics, technical liaison with industry leaders, and student safety protocols. This experience sharpened my project management skills and gave me firsthand exposure to large-scale power systems and automated manufacturing lines in action.
+
+### 🎓 Summer Intern — NIT Tiruchirappalli
+> **Project:** Closed-Loop Voltage Regulation of a DC-DC Boost Converter using PI Control.
+> - Simulated and modeled power stages in **MATLAB/Simulink**.
+> - Tuned PI controllers for tight voltage regulation under load variations.
+> - Bridged the gap between theoretical control systems and practical embedded implementation.
 
 ---
 
-## 🛠️ Technical Skills
+<!-- ============================================ -->
+<!--  🛠️  TECH_STACK (Engineer's Toolbox)         -->
+<!-- ============================================ -->
+## 🛠️ `>_ ENGINEERING_TOOLBOX`
 
-### 💻 Programming
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedded%20C-222222?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
+| 🏗️ Domain | 🧰 Technologies & Tools |
+|:---|:---|
+| **⚡ Power & Control** | `MATLAB` `Simulink` `PI Control` `State-Space` `Bode Plots` |
+| **🔌 Embedded Systems** | `ESP32` `STM32` `Arduino` `Embedded C` `RTOS` |
+| **📡 Communication** | `UART` `SPI` `I²C` `CAN` |
+| **🔧 Hardware Design** | `KiCad` `Altium` `Oscilloscopes` `Function Generators` |
+| **🧠 Firmware Logic** | `ADC` `PWM` `Timers` `Interrupts` `Sensors` |
+| **🤖 Simulation** | `Proteus` `LTspice` `PSIM` |
 
-### 🔌 Embedded Platforms
-<p>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-</p>
-
-### 📡 Communication Protocols
-<p>
-  <img src="https://img.shields.io/badge/UART-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SPI-6A1B9A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/I²C-00897B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CAN-E65100?style=for-the-badge" />
-</p>
-
-### ⚡ Power & Control
-<p>
-  <img src="https://img.shields.io/badge/Power%20Electronics-8B0000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Control%20Systems-5C2D91?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DC--DC%20Converters-CC5500?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PI%20Control-3949AB?style=for-the-badge" />
-</p>
-
-### 🧰 Engineering Tools
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Simulink-FF8C00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded_C-222222?style=for-the-badge" />
   <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
-  <img src="https://img.shields.io/badge/Altium-1F1F1F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CAN_Bus-E65100?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RTOS-FF6F00?style=for-the-badge&logo=freebsd&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Featured Engineering Work
+<!-- ============================================ -->
+<!--  🔥  FEATURED_PROJECTS                       -->
+<!-- ============================================ -->
+## 🚀 `>_ ACTIVE_PROJECTS`
 
-### 🔋 Closed‑Loop Voltage Regulation of a DC‑DC Boost Converter
-> *Summer Internship — NIT Tiruchirappalli*  
-> Worked on closed‑loop voltage regulation of a DC‑DC boost converter using PI control, combining power electronics, control theory, simulation, and embedded implementation.
-
-**Focus:** Power Electronics · PI Control · C2000 · MATLAB · Simulink
-
----
-
-### ⚡ Dynamic Reconfiguration Kit
-> A hardware‑oriented innovation project focused on dynamic electrical reconfiguration and practical hardware implementation.  
-> 🏆 **1st Prize — Hardware Hackathon**
-
-**Focus:** Hardware Design · Electrical Systems · Automation · Innovation
+| ⚡ Project | 🔬 Tech Stack | 🏆 Impact |
+|:---|:---|:---|
+| **Closed-Loop DC-DC Boost Converter** | `PI Control` `MATLAB` `Simulink` | Internship project @ NIT Trichy |
+| **Dynamic Reconfiguration Kit** | `Hardware` `Automation` | 🥇 **1st Prize** - Hardware Hackathon |
+| **ESP32 Plant Watering System** | `ESP32` `ADC` `Relay` | Automated precision agriculture prototype |
+| **Intelligent Vehicle Safety System** | `Sensors` `Embedded C` | Real-time vehicle monitoring R&D |
 
 ---
 
-### 🌱 ESP32 Automatic Plant Watering System
-> An embedded automation system using soil‑moisture sensing and ESP32‑based control to automatically operate a water pump according to soil conditions.
-
-**Focus:** ESP32 · Embedded C · ADC · Sensors · Relay Control
-
----
-
-### 🚗 Intelligent Vehicle Safety & Monitoring
-> Exploring embedded hardware solutions for vehicle monitoring, sensing, and intelligent safety systems.
-
-**Focus:** Embedded Systems · Sensors · Vehicle Electronics
-
----
-
-## 🎓 Experience
-
-**National Institute of Technology, Tiruchirappalli**  
-*Summer Intern — Department of Electrical & Electronics Engineering*
-
-**Project:** Closed‑Loop Voltage Regulation of a DC‑DC Boost Converter Using PI Control  
-**Key Areas:** DC‑DC Boost Converter · Closed‑loop voltage regulation · PI Controller · MATLAB/Simulink · Embedded Control · Power Electronics Analysis
-
----
-
-## 🏆 Achievements
+<!-- ============================================ -->
+<!--  🏆  ACHIEVEMENTS & LEADERSHIP               -->
+<!-- ============================================ -->
+## 🏆 `>_ RANKING_BOARD`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🥇%201st%20Prize-Hardware%20Hackathon-gold?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🥈%202nd%20Prize-Idea%20Presentation-silver?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎓%20Summer%20Internship-NIT%20Tiruchirappalli-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🥇_1st_Place-Hardware_Hackathon-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🥈_2nd_Place-Idea_Presentation-silver?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓_Intern-NIT_Tiruchirappalli-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚌_Coordinator-Hyderabad_Visit-00BFFF?style=for-the-badge" />
 </p>
 
-- 🥇 **1st Prize — Hardware Hackathon** – Developed the *Dynamic Reconfiguration Kit*
-- 🥈 **2nd Prize — Idea Presentation** – Presented an innovative hardware‑oriented concept
-- 🎓 **Summer Internship – NIT Tiruchirappalli** – Worked on power‑electronics and control‑oriented project
+- 🥇 **1st Prize** – Dynamic Reconfiguration Kit (Hardware Innovation)
+- 🥈 **2nd Prize** – Hardware Concept Presentation
+- 🎓 **Summer Intern** – Power Electronics @ NIT Trichy
+- 🚌 **Industrial Visit Lead** – Successfully coordinated the Hyderabad industrial tour, ensuring seamless technical engagement for 40+ students.
 
 ---
 
-## 🔬 Areas of Interest
+<!-- ============================================ -->
+<!--  📈  GITHUB STATS (Dashboard View)           -->
+<!-- ============================================ -->
+## 📊 `>_ GIT_STATS`
 
-```
-🔌 Embedded Systems
-├── Microcontrollers
-├── Embedded C
-├── Communication Protocols
-└── Real‑Time Systems
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lawrance016&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&rank_icon=github" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lawrance016&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00E5FF" height="180" />
+</p>
 
-⚡ Power Electronics
-├── DC‑DC Converters
-├── Power Conversion
-├── Motor Drives
-└── EV Power Electronics
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Lawrance016&theme=dark&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
+</p>
 
-🔧 Hardware R&D
-├── PCB Design
-├── Sensors & Actuators
-├── Prototyping
-└── Intelligent Hardware
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lawrance016&theme=react-dark&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&hide_border=true" />
+</p>
 
-🚗 Future Focus
-├── RTOS
-├── CAN Communication
-├── Battery Management Systems
-├── EV Systems
-└── Advanced Embedded Control
+---
+
+<!-- ============================================ -->
+<!--  🎯  MISSION_ROADMAP                         -->
+<!-- ============================================ -->
+## 🗺️ `>_ ROADMAP_2026-2027`
+
+```mermaid
+timeline
+    title Engineering Mission Control
+    2026 : 🔥 Intensive GATE 2027 Prep
+         : 🛠️ Master STM32 & RTOS
+         : 🔬 Build Advanced Power Converters
+    2027 : 🎯 CRACK GATE with Top Rank
+         : 🎓 Pursue M.Tech (Power Electronics)
+         : 🚀 EV & BMS Deep-Dive R&D
 ```
 
----
-
-## 📚 Currently Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Advanced%20Embedded%20C-00599C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RTOS-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CAN-8E24AA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PCB%20Design-1565C0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BMS-2E7D32?style=for-the-badge" />
-</p>
-
-- Advanced Embedded C
-- STM32 Development
-- RTOS Fundamentals
-- UART / SPI / I²C / CAN
-- PCB Design
-- Advanced Power Electronics
-- Battery Management Systems
-- Embedded Control Systems
+> **Current Sprint:** Deep-diving into **Power Electronics (Switching Converters, SMPS, Inverters)** and **Control Systems (Root Locus, Bode, Nyquist)** for GATE 2027, while simultaneously building hands-on hardware prototypes to solidify my practical intuition.
 
 ---
 
-## 📊 GitHub Statistics
+<!-- ============================================ -->
+<!--  🤝  NETWORK_INTERFACE                       -->
+<!-- ============================================ -->
+## 🌐 `>_ CONNECT`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lawrance016&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lawrance016&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <a href="https://www.linkedin.com/in/lawrance016"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:joshualawrance16@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Lawrance016"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
-
+<!-- ============================================ -->
+<!--  🦾  FOOTER                                 -->
+<!-- ============================================ -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lawrance016&theme=tokyonight&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=120&section=footer"/>
 </p>
 
----
-
-## 📈 Contribution Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lawrance016&theme=tokyo-night&hide_border=true" />
+  ⚡ <strong>Engineering Ideas Into Practical Solutions</strong> ⚡<br>
+  <em>Build • Test • Learn • Improve • Repeat</em>
 </p>
-
----
-
-## 🎯 Engineering Goals
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Embedded%20C-In%20Progress-00599C?style=flat-square" />
-  <img src="https://img.shields.io/badge/STM32-In%20Progress-03234B?style=flat-square" />
-  <img src="https://img.shields.io/badge/RTOS-Learning-FF6F00?style=flat-square" />
-  <img src="https://img.shields.io/badge/CAN-Learning-8E24AA?style=flat-square" />
-  <img src="https://img.shields.io/badge/PCB%20Design-Improving-1565C0?style=flat-square" />
-  <img src="https://img.shields.io/badge/BMS-Exploring-2E7D32?style=flat-square" />
-</p>
-
-- [ ] Strengthen Embedded C
-- [ ] Master STM32
-- [ ] Learn RTOS
-- [ ] Build CAN‑based projects
-- [ ] Improve PCB Design
-- [ ] Develop a practical BMS
-- [ ] Build advanced Power Electronics projects
-- [ ] Contribute to Open Source
-- [ ] Develop R&D‑oriented Hardware Prototypes
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lawrance016">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:joshualawrance16@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Lawrance016">
-    <img src="https://img.shields.io/badge/GitHub-Lawrance016-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">⚡ Engineering Ideas Into Practical Solutions<br>
-<em>Build • Test • Learn • Improve</em></p>
-```
